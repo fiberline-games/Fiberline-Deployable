@@ -3,7 +3,6 @@
 
 
 ## About
-This repo is also tiny
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/fiberline-games/fiberline-deployable)
 
